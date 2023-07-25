@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .display {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  body{
+    background-color: rgb(127, 255, 187);
+    
+  }
+  #startBtn{
+    background-color: blue;
+  }
+  #stopBtn{
+    background-color:red;
+  }
+  #resetBtn{
+    background-color:green;
+  }
